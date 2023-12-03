@@ -1,0 +1,16 @@
+D:\C#\ccc\ccc\bin\Debug\net7.0-windows\ccc.exe
+D:\C#\ccc\ccc\bin\Debug\net7.0-windows\ccc.deps.json
+D:\C#\ccc\ccc\bin\Debug\net7.0-windows\ccc.runtimeconfig.json
+D:\C#\ccc\ccc\bin\Debug\net7.0-windows\ccc.dll
+D:\C#\ccc\ccc\bin\Debug\net7.0-windows\ccc.pdb
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.Form1.resources
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.csproj.GenerateResource.cache
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.AssemblyInfoInputs.cache
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.AssemblyInfo.cs
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.csproj.CoreCompileInputs.cache
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.dll
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\refint\ccc.dll
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.pdb
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ccc.genruntimeconfig.cache
+D:\C#\ccc\ccc\obj\Debug\net7.0-windows\ref\ccc.dll
